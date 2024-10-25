@@ -1,0 +1,13 @@
+folder structure
+inventory-backend
+├── config
+│   └── db.js
+├── controllers
+│   └── productController.js
+├── models
+│   └── productModel.js
+├── routes
+│   └── productRoutes.js
+├── .env
+├── server.js
+└── package.json
